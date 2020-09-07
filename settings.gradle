@@ -1,2 +1,2 @@
-include 'application', 'presentation', 'domain','infrastructure',
-        'common', 'specification', 'persistance'
+include 'application', 'api', 'domain','infrastructure',
+        'common', 'specification', 'persistence'
